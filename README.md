@@ -1,2 +1,1 @@
-# blog_cafe
-Template
+# Template blog cafe
