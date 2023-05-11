@@ -1,1 +1,1 @@
-# Template blog cafe
+# template-blog-cafe
